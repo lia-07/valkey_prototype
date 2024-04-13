@@ -54,6 +54,9 @@ const config = {
 					DEFAULT: '#A02F6F',
 					light: '#CE5D97'
 				}
+			},
+			fontFamily: {
+				archivo: ['"Archivo"', 'sans']
 			}
 		}
 	},
