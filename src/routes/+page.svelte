@@ -60,7 +60,7 @@
 						</h1>
 						<p class="text-base-black">
 							Valkey could be described as a "data structure server". It supports strings, hashes,
-							lists, sets, sorted sets, streams, & many more.
+							lists, sets, streams, & many more.
 						</p>
 					</article>
 				</div>
