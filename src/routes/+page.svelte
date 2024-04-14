@@ -1,5 +1,7 @@
-<div class="mx-auto my-8 max-w-screen-md">
-	<header class=" border-azure-deep bg-navy-royal text-gray-1 border-t-4 px-8 py-6">
+<div class="mx-auto my-8 max-w-screen-md overflow-clip rounded-sm">
+	<header
+		class=" border-azure-base from-azure-dark via-navy-royal to-navy-royal text-gray-1 border-t-4 bg-gradient-to-b px-8 py-6"
+	>
 		<div class="flex items-center gap-2">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +24,7 @@
 			<a href="#" class="hover:underline">Source</a>
 		</nav>
 	</header>
-	<main class="border-gray-2 bg-gray-2/30 border shadow-sm">
+	<main class="border-gray-2 bg-gray-2/40 border shadow-sm">
 		<section class=" border-gray-1 border-b px-8 py-6">
 			<h1 class="text-gray-6 mb-2 max-w-xl font-archivo text-4xl font-medium">
 				Valkey is an astonishingly fast & open source data store.
@@ -33,8 +35,8 @@
 			</h2>
 			<div class="flex gap-4">
 				<button
-					class="text-gray-1 border-navy-royal from-azure-deep via-navy-royal to-navy-royal flex items-center gap-2 rounded border-2 bg-gradient-to-b px-3 py-2 font-archivo font-bold shadow-inner drop-shadow transition-all hover:scale-[101%] hover:brightness-105 hover:drop-shadow-md active:scale-95 active:brightness-95"
-					>Get started
+					class="text-gray-1 border-navy-royal from-azure-deep via-navy-royal to-navy-royal flex items-center gap-2 rounded border bg-gradient-to-b px-3 py-2 font-archivo font-bold shadow-inner drop-shadow transition-all hover:scale-[101%] hover:brightness-105 hover:drop-shadow-md active:scale-95 active:brightness-95"
+					>Downloads
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="24"
