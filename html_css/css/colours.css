@@ -1,0 +1,25 @@
+:root {
+  /* Linux foundation brand colours */
+  --lf-navy-royal: #003778;
+  --lf-navy-deep: #002857;
+  --lf-navy-dark: #00183c;
+
+  --lf-azure: #0094ff;
+  --lf-azure-deep: #0077cc;
+  --lf-azure-dark: #00548f;
+
+  --lf-purple-royal: #5b1de7;
+  --lf-purple-deep: #3d14a3;
+  --lf-purple-dark: #11156d;
+
+  --lf-gray-1: #f6f7fa;
+  --lf-gray-2: #d6d6d6;
+  --lf-gray-3: #a1a1a4;
+  --lf-gray-4: #818183;
+  --lf-gray-5: #6e6e6e;
+  --lf-gray-6: #222222;
+
+  --lf-cyan: #12e2e2;
+  --lf-pink: #ff00aa;
+  --lf-green: #acde1f;
+}
