@@ -1,0 +1,25 @@
+@import url("colours.css");
+
+body {
+  background-color: var(--lf-gray-1);
+}
+
+body > div {
+  margin: 2rem auto;
+  max-width: 786px;
+  border-radius: 0.125rem;
+  overflow: clip;
+}
+
+header {
+  padding: 1.5rem 2rem;
+
+  background-color: var(--lf-navy-royal);
+  background: linear-gradient(
+    180deg,
+    var(--lf-azure-dark) 0%,
+    var(--lf-navy-royal) 50%
+  );
+
+  border-top: 6px solid var(--lf-green);
+}
